@@ -7,7 +7,7 @@
   
 ---
 
-<center><img src="textsandtech.png"></center>
+<center><img src="textsandtech.jpg"></center>
 
 ---
 
