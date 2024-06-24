@@ -11,4 +11,4 @@
 
 ---
 
-Syllabus [syllabus]
+[Syllabus] (syllabus)
