@@ -11,4 +11,4 @@
 
 ---
 
-[Syllabus] (syllabus.md)
+[Syllabus](syllabus.md)
