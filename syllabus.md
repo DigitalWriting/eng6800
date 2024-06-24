@@ -124,99 +124,99 @@ Remember to complete the listed readings for each week prior to class, and be pr
 
 ## Weekly Schedule
 
-### Week One: Syllabus and Getting Started (Tuesday, August 22)
+### Week One: Syllabus and Getting Started (Tuesday, August 20)
 
 - Sweeney, Miriam E. 2012. ["How to Read for Grad School."](http://miriamsweeney.net/2012/06/20/readforgradschool/).
 - [The T&T Student Handbook](https://cah.ucf.edu/textstech/curriculum/handbook/)
 - **Due: Activity Verification (Friday August 26th)**
 
-### Week Two: Intro to DH (Tuesday, August 29)
+### Week Two: Intro to DH (Tuesday, August 27)
 
 - Klein: Emerging / Interdisciplining
 - Debates in DH: Part 1
 - **Demo: Zotero**
 
-### Week Three: Sites (Tuesday, September 5)
+### Week Three: Sites (Tuesday, September 3)
 
 - Bolter: Preface, Chapter 1-6
 - Broman, Karl. ["Simple Site"](https://kbroman.org/simple_site/)
 - **Demo: Visual Studio Code**
 
-### Week Four: Hypertext (Tuesday, September 12)
+### Week Four: Hypertext (Tuesday, September 10)
 
 - Bolter: Finish book
 - "Jensen, Joli. 2018. ["Lessons on the Craft of Scholarly Reading."](https://www.chronicle.com/article/lessons-on-the-craft-of-scholarly-reading/)
 - **Due: Zotero Reading List**
   
-### Week Five: Literature Reviews (Tuesday, September 19)
+### Week Five: Literature Reviews (Tuesday, September 17)
 
 - Bogost: Preface, Chapter 1-5
 - Klein: Defining
 - FSU. ["The Literature Revdatiew Process"](https://guides.lib.fsu.edu/litreview_arthum)
 - **Demo: GitHub Accounts and Pages**
 
-### Week Six: Methods and Making (Tuesday, September 26)
+### Week Six: Methods and Making (Tuesday, September 24)
 
 - Bogost: Finish book
 - Debates in DH: Part II
 - **Demo: Markdown**
 - **Due: Abstract**
   
-### Week Seven: Arguments (Tuesday, October 3)
+### Week Seven: Arguments (Tuesday, October 1)
 
 - Nakamura: Introduction, Chapter 1-3
 - Debates in DH: Part III
 - **Demo: Academic Content**
 
-### Week Eight: Visual Culture (Tuesday, October 10)
+### Week Eight: Visual Culture (Tuesday, October 8)
 
 - Nakamura: Finish book
 - Debates in DH: Part V
 - **Demo: Style and Design**
 - **Due: Literature Review**
 
-### Week Nine: Software (Tuesday, October 17)
+### Week Nine: Software (Tuesday, October 15)
 
 - Manovich: Part 1 and 2
 - Debates in DH: Part IV
 - **Demo: Finishing Your Site**
 
-### Week Ten: Cultural Software (Tuesday, October 24)
+### Week Ten: Cultural Software (Tuesday, October 22)
 
 - Manovich: Finish Book
 - Debates in DH: Part V
 - **Demo: Abstracts and Proposals**
 
-### Week Eleven: Digital Humanities, Revisited (Tuesday, October 31)
+### Week Eleven: Digital Humanities, Revisited (Tuesday, October 29)
 
 - Klein: Finish Book
 - Belcher, Wendy. 2019. ["Myths and Truths about Publishable Journal Articles"](https://www.insidehighered.com/advice/2019/07/18/how-write-publishable-journal-article-opinion)
 - **Demo: Dissecting a Journal Article**
 - **Due: Academic Web Presence**
   
-### Week Twelve: Publishing Processes (Tuesday, November 7)
+### Week Twelve: Publishing Processes (Tuesday, November 5)
 
 - Vee: Introduction and Chapter 1-2
 - **Demo: From Submission to Article**
 
-### Week Thirteen: On Higher Ed (Tuesday, November 14)
+### Week Thirteen: On Higher Ed (Tuesday, November 12)
 
 - Vee: Finish book
 - Ahmed: Introduction and 1
 - **Demo: Revising Effectively**
 
-### Week Fourteen: Critiques (Tuesday, November 21)
+### Week Fourteen: Critiques (Tuesday, November 19)
 
 - Ahmed: 2 and 3
 - **Demo: Planning for Exams**
 - **Due: Article Draft**
 
-### Week Fifteen: Design Futures (Tuesday, November 28)
+### Week Fifteen: Design Futures (Tuesday, November 26)
 
 - Ahmed: Finish book
 - **Demo: Thinking Ahead on Dissertation**
 
-### Revision Memo Due (Friday, December 8)
+### Revision Memo Due (Friday, November 29)
 
 ---
 
