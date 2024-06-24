@@ -1,107 +1,282 @@
-# :wave: The Basics of GitHub 
+# ENG 6800: Intro to Texts & Technology
 
-## 🤓 Course overview and learning outcomes 
+- **Instructor:** Dr. Rudy McDaniel
+- **Email:** rudy@ucf.edu
+- **Office:** Via Zoom or VAB 117; Tuesday 3:00 - 5:00 PM
+- **Course Meeting:** Tuesday 6:00 - 7:50 PM, TCH 351
+  
+---
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+<center><img src="textsandtech.png"></center>
 
-## :octocat: Git and GitHub
+---
 
-Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
+## Contents
 
-GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
+- [ENG 6800: Intro to Texts \& Technology](#eng-6800-intro-to-texts--technology)
+  - [Contents](#contents)
+  - [Course Description](#course-description)
+  - [Course Objectives](#course-objectives)
+  - [Materials and Texts](#materials-and-texts)
+  - [Evaluation and Grading](#evaluation-and-grading)
+  - [Mixed Mode Course Structure](#mixed-mode-course-structure)
+  - [Weekly Schedule](#weekly-schedule)
+    - [Week One: Syllabus and Getting Started (Tuesday, August 22)](#week-one-syllabus-and-getting-started-tuesday-august-22)
+    - [Week Two: Intro to DH (Tuesday, August 29)](#week-two-intro-to-dh-tuesday-august-29)
+    - [Week Three: Sites (Tuesday, September 5)](#week-three-sites-tuesday-september-5)
+    - [Week Four: Hypertext (Tuesday, September 12)](#week-four-hypertext-tuesday-september-12)
+    - [Week Five: Literature Reviews (Tuesday, September 19)](#week-five-literature-reviews-tuesday-september-19)
+    - [Week Six: Methods and Making (Tuesday, September 26)](#week-six-methods-and-making-tuesday-september-26)
+    - [Week Seven: Arguments (Tuesday, October 3)](#week-seven-arguments-tuesday-october-3)
+    - [Week Eight: Visual Culture (Tuesday, October 10)](#week-eight-visual-culture-tuesday-october-10)
+    - [Week Nine: Software (Tuesday, October 17)](#week-nine-software-tuesday-october-17)
+    - [Week Ten: Cultural Software (Tuesday, October 24)](#week-ten-cultural-software-tuesday-october-24)
+    - [Week Eleven: Digital Humanities, Revisited (Tuesday, October 31)](#week-eleven-digital-humanities-revisited-tuesday-october-31)
+    - [Week Twelve: Publishing Processes (Tuesday, November 7)](#week-twelve-publishing-processes-tuesday-november-7)
+    - [Week Thirteen: On Higher Ed (Tuesday, November 14)](#week-thirteen-on-higher-ed-tuesday-november-14)
+    - [Week Fourteen: Critiques (Tuesday, November 21)](#week-fourteen-critiques-tuesday-november-21)
+    - [Week Fifteen: Design Futures (Tuesday, November 28)](#week-fifteen-design-futures-tuesday-november-28)
+    - [Revision Memo Due (Friday, December 8)](#revision-memo-due-friday-december-8)
+  - [General Policies](#general-policies)
+    - [Academic Integrity](#academic-integrity)
+    - [Responses to Academic Dishonesty, Plagiarism, or Cheating](#responses-to-academic-dishonesty-plagiarism-or-cheating)
+    - [Course Accessibility Statement](#course-accessibility-statement)
+    - [Campus Safety Statement](#campus-safety-statement)
+    - [Deployed Active Duty Military Students](#deployed-active-duty-military-students)
+    - [Authorized Events and Religious Observances](#authorized-events-and-religious-observances)
+    - [Title IX Policy](#title-ix-policy)
 
-GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
+---
 
-## :octocat: Understanding the GitHub flow 
+## Course Description
 
-The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
+This course provides an introduction to the PhD in Texts and Technology. Throughout this course, we will explore Texts & Technology through theory and practice, with an emphasis on interdisciplinarity, understanding academic fields and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. Each week will include a combination of readings, exercises, discussions, and progress towards a draft journal article and professional academic web presence. PR: Graduate standing or C.I.
 
-### Repositories
+- **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module. Weekly lectures and discussion will take place in the classroom: however, Zoom attendance is available for those who need it upon request.
 
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
+- **Online Activities.** This course requires substantial independent work: as part of the mixed-mode structure, additional lectures and tutorials will be available through Webcourses, with an emphasis on the iterative development of the semester projects.
 
-### Cloning 
+---
 
-When a repository is created with GitHub, it’s stored remotely in the ☁️. You can clone a repository to create a local copy on your computer and then use Git to sync the two. This makes it easier to fix issues, add or remove files, and push larger commits. You can also use the editing tool of your choice as opposed to the GitHub UI. Cloning a repository also pulls down all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project and then realize you liked a previous version more. 
-To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
+## Course Objectives
 
-### Committing and pushing
-**Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You can also add a helpful **commit message** to remind yourself or your teammates what work you did (e.g. “Added a README with information about our project”).
+- Explore the six tracks of Texts & Technology through analysis and discussion of core texts
+- Learn about the numerous interdisciplinary fields that inform and influence the practice and theorizing of texts and technology.
+- Become familiar with some core concepts that will recur throughout the T&T program, and which form the theoretical basis and backbone of the program.
+- Be introduced to some of the basic concerns, concepts, and methods in the emerging interdisciplinary scholarship of Texts and Technology.
+- Engage in scholarly conversation about the course texts and concepts they take up, in the process improving interpretation, writing, design, and argumentation skills.
+- Understand program policies and expectations as well as professional presentation and publication strategies.
+- Understand the fundamentals of web platforms.
+- Apply basic syntax and markup language to build structured web documents (e.g., HTML and Markdown).
 
-Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
+---
 
-## 💻 GitHub terms to know 
+## Materials and Texts
 
-### Repositories 
-We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
+This course requires texts drawn from the T&T core list. All books are available open access or for free through the UCF library:
 
-Repositories also contain **README**s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. 😄 
-To learn more about repositories read ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
+- Ahmed, Sara. *On Being Included: Racism and Diversity in Institutional Life.* Duke University Press, 2012. [Access for free through UCF Library](https://go.openathens.net/redirector/ucf.edu?url=https%3A%2F%2Fwww.jstor.org%2Fstable%2Fj.ctv1131d2g)
+- Bogost, Ian. *Persuasive Games: The Expressive Power of Video Games.* MIT Press, 2007. [Access for free through UCF Library](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=3338706)
+- Bolter, Jay David. *Writing Space: Computers, Hypertext, and the Remediation of Print.* Routledge, 2001. [Access for free through UCF Library](https://go.openathens.net/redirector/ucf.edu?url=https%3A%2F%2Fdoi.org%2F104324%2F9781410600110)
+- Gold, Matthew K., and Lauren Klein (eds.) *Debates in the Digital Humanities 2023.* University of Minnesota Press, 2023. [Access for free through UCF Library](https://ucf-flvc.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99384102366406596&context=U&vid=01FALSC_UCF:UCF&lang=en3)
+- Klein, Julie Thompson. *Interdisciplining Digital Humanities: Boundary Work in an Emerging Field.* University of Michigan Press, 2015. [Open Access](https://muse.jhu.edu/book/52267)
+- Manovich, Lev. *Software Takes Command.* Bloomsbury, 2013. [Open Access](https://issuu.com/bloomsburypublishing/docs/9781623566722_web)
+- Nakamura, Lisa. *Digitizing Race: Visual Cultures of the Internet.* University of Minnesota Press, 2007. [Access for free through UCF Library](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=334221)
+- Vee, Annette. *Coding Literacy: How Computer Programming is Changing Writing.* MIT Press, 2017. [Access for free through UCF Library](https://ebookcentral.proquest.com/lib/ucf/detail.action?docID=5340074)
 
-### Branches
-You can use branches on GitHub to isolate work that you do not want merged into your final project just yet. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. Typically, you might create a new branch from the default branch of your repository—main. This makes a new working copy of your repository for you to experiment with. Once your new changes have been reviewed by a teammate, or you are satisfied with them, you can merge your changes into the default branch of your repository.
-To learn more about branching, read ["About Branches"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
+Supplementary suggested readings are included in each module to guide additional exploration of the field.
 
-### Forks
-A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
-To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+---
 
-### Pull requests
-When working with branches, you can use a pull request to tell others about the changes you want to make and ask for their feedback. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add more changes if need be. You can add specific people as reviewers of your pull request which shows you want their feedback on your changes! Once a pull request is ready-to-go, it can be merged into your main branch.
-To learn more about pull requests, read ["About Pull Requests"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). 
+## Evaluation and Grading
 
+| Points  | Assignment Summary | Due Date  |
+|---|---|---|
+| 5  | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course. As this is required by the university, please attend to it as soon as possible at the start of classes. | Friday, August 25  |
+| 10  | **Zotero Reading List** - Set up Zotero and create a collection for your core T&T list. Add all the books we’re reading this semester that are on the list as well as any others you have read or are particularly interested in. Submit a screenshot of the collection. | Tuesday, September 12 |
+| 10 | **Abstract** - Choose a special issue, conference, or a target journal from the provided list. Draft an abstract of the appropriate length and style (following journal guidelines). This abstract will form the starting point for your semester-long research project. | Tuesday, September 26  |
+| 20  | **Literature Review** - Select three relevant journal articles or book chapters in consultation with the professor: at least one should be from your target journal. Following the provided examples, prepare a literature review on your subject using the articles in combination with course readings.  | Tuesday, October 10 |
+| 20  | **Web Presence** - Using the provided templates, build a foundational professional website with an emphasis on your research and trajectory. The website should include relevant information from your CV and any digital projects ready for showcasing.  | Tuesday, October 31 |
+| 25 | **Article Draft** - Following the formatting guidelines and length requirements of your selected venue, prepare a draft of your article.   | Tuesday, November 21  |
+| 10 | **Revision Memo** - Provide a plan for your article revision, responsive to the feedback you've reived on the draft submission. This memo should be professionally structured and addressed to the editor of your target journal. | Friday, December 8  |
 
-### Issues
-Issues are a way to track enhancements, tasks, or bugs for your work on GitHub. Issues are a great way to keep track of all the tasks you want to work on for your project and let others know what you plan to work on. You can also use issues to tell a favorite open source project about a bug you found or a feature you think would be great to add!
+Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
-For larger projects, you can keep track of many issues on a project board. GitHub Projects help you organize and prioritize your work and you can read more about them [in this "About Project boards document](https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards). You likely won’t need a project board for your assignments, but once you move on to even bigger projects, they’re a great way to organize your team’s work!
-You can also link together pull requests and issues to show that a fix is in progress and to automatically close the issue when someone merges the pull request.
-To learn more about issues and linking them to your pull requests, read ["About Issues"](https://docs.github.com/en/github/managing-your-work-on-github/about-issues). 
+Late work is accepted without penalty through one week after the assignment deadline. If circumstances require extension beyond that deadline, please reach out to the instructor immediately. As assignments throughout the course are designed to build on the previous exercise, assignments must be completed in sequence. Incompletes will not be granted for students with more than two missing assignments, and must be resolved within six months of the end of the course.
 
-### Your user profile
+There is no extra credit work available in this class. Grades will be available through Webcourses and updated weekly.
 
-Your profile page tells people the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. You can also give the world a unique view into who you are with your profile README. You can use your profile to let future employers know all about you! 
-To learn more about your user profile and adding and updating your profile README, read ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). 
+---
 
-### Using markdown on GitHub 
+## Mixed Mode Course Structure
 
-You might have noticed already, but you can add some fun styling to your issues, pull requests, and files. ["Markdown"](https://guides.github.com/features/mastering-markdown/) is an easy way to style your issues, pull requests, and files with some simple syntax. This can be helpful to organize your information and make it easier for others to read. You can also drop in gifs and images to help convey your point!
-To learn more about using GitHub’s flavor of markdown, read ["Basic Writing and Formatting Syntax"](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax). 
+This course uses a mixed mode format, and relies upon students to complete all readings, engage with online videos, and complete tutorials as assigned. All assignments are due at the close of their listed module, but will be accepted with no penalty for one week after the deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
 
-### Engaging with the GitHub community
+- The course will meet at the scheduled time on campus unless otherwise noted in the weekly module.
+- In-person class sessions will not be recorded, but Zoom calls are possible when necessary.
+- Office hour assistance is additionally available both through text on Webcourses messages and via Zoom.
 
-The GitHub community is vast. There are many types of people who use GitHub in their day to day—students like you, professional developers, hobbyists working on open source projects, and explorers who are just jumping into the world of software development on their own. There are many ways you can interact with the larger GitHub community, but here are three places where you can start. 
+In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed. Incompletes will only be granted with no more than two missing assignments, and work must be completed within six months of the close of course.
 
-#### Starring repositories 
+Remember to complete the listed readings for each week prior to class, and be prepared for discussion.
 
-If you find a repository interesting or you want to keep track of it, star it! When you star a repository it’s also used as a signal to surface better recommendations on github.com/explore. If you’d like to get back to your starred repositories you can do so via your user profile. 
-To learn  more about starring repositories, read ["Saving Repositories with Stars"](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars). 
+---
 
-#### Following users 
+## Weekly Schedule
 
-You can follow people on GitHub to receive notifications about their activity and discover projects in their communities. When you follow a user, their public GitHub activity will show up on your dashboard so you can see all the cool things they are working on. 
-To learn more about following users, read ["Following People"](https://docs.github.com/en/github/getting-started-with-github/following-people).
+### Week One: Syllabus and Getting Started (Tuesday, August 22)
 
-#### Browsing GitHub Explore 
+- Sweeney, Miriam E. 2012. ["How to Read for Grad School."](http://miriamsweeney.net/2012/06/20/readforgradschool/).
+- [The T&T Student Handbook](https://cah.ucf.edu/textstech/curriculum/handbook/)
+- **Due: Activity Verification (Friday August 26th)**
 
-GitHub Explore is a great place to do just that … explore :smile: You can find new projects, events, and developers to interact with.
+### Week Two: Intro to DH (Tuesday, August 29)
 
-You can check out the GitHub Explore website [at github.com/explore](https://github.com/explore). The more you interact with GitHub the more tailored your Explore view will be. 
+- Klein: Emerging / Interdisciplining
+- Debates in DH: Part 1
+- **Demo: Zotero**
 
-## 📝 Optional next steps 
+### Week Three: Sites (Tuesday, September 5)
 
-* Open a pull request and let your teacher know that you’ve finished this course.  
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
-* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
-* Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
+- Bolter: Preface, Chapter 1-6
+- Broman, Karl. ["Simple Site"](https://kbroman.org/simple_site/)
+- **Demo: Visual Studio Code**
 
-## 📚  Resources 
-* [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
-* [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
-* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-* [How to use GitHub branches](https://www.youtube.com/watch?v=H5GJfcp3p4Q&feature=youtu.be)
-* [Interactive Git training materials](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
-* [GitHub's Learning Lab](https://lab.github.com/)
-* [Education community forum](https://education.github.community/)
-* [GitHub community forum](https://github.community/)
+### Week Four: Hypertext (Tuesday, September 12)
+
+- Bolter: Finish book
+- "Jensen, Joli. 2018. ["Lessons on the Craft of Scholarly Reading."](https://www.chronicle.com/article/lessons-on-the-craft-of-scholarly-reading/)
+- **Due: Zotero Reading List**
+  
+### Week Five: Literature Reviews (Tuesday, September 19)
+
+- Bogost: Preface, Chapter 1-5
+- Klein: Defining
+- FSU. ["The Literature Revdatiew Process"](https://guides.lib.fsu.edu/litreview_arthum)
+- **Demo: GitHub Accounts and Pages**
+
+### Week Six: Methods and Making (Tuesday, September 26)
+
+- Bogost: Finish book
+- Debates in DH: Part II
+- **Demo: Markdown**
+- **Due: Abstract**
+  
+### Week Seven: Arguments (Tuesday, October 3)
+
+- Nakamura: Introduction, Chapter 1-3
+- Debates in DH: Part III
+- **Demo: Academic Content**
+
+### Week Eight: Visual Culture (Tuesday, October 10)
+
+- Nakamura: Finish book
+- Debates in DH: Part V
+- **Demo: Style and Design**
+- **Due: Literature Review**
+
+### Week Nine: Software (Tuesday, October 17)
+
+- Manovich: Part 1 and 2
+- Debates in DH: Part IV
+- **Demo: Finishing Your Site**
+
+### Week Ten: Cultural Software (Tuesday, October 24)
+
+- Manovich: Finish Book
+- Debates in DH: Part V
+- **Demo: Abstracts and Proposals**
+
+### Week Eleven: Digital Humanities, Revisited (Tuesday, October 31)
+
+- Klein: Finish Book
+- Belcher, Wendy. 2019. ["Myths and Truths about Publishable Journal Articles"](https://www.insidehighered.com/advice/2019/07/18/how-write-publishable-journal-article-opinion)
+- **Demo: Dissecting a Journal Article**
+- **Due: Academic Web Presence**
+  
+### Week Twelve: Publishing Processes (Tuesday, November 7)
+
+- Vee: Introduction and Chapter 1-2
+- **Demo: From Submission to Article**
+
+### Week Thirteen: On Higher Ed (Tuesday, November 14)
+
+- Vee: Finish book
+- Ahmed: Introduction and 1
+- **Demo: Revising Effectively**
+
+### Week Fourteen: Critiques (Tuesday, November 21)
+
+- Ahmed: 2 and 3
+- **Demo: Planning for Exams**
+- **Due: Article Draft**
+
+### Week Fifteen: Design Futures (Tuesday, November 28)
+
+- Ahmed: Finish book
+- **Demo: Thinking Ahead on Dissertation**
+
+### Revision Memo Due (Friday, December 8)
+
+---
+
+## General Policies
+
+### Academic Integrity
+
+[The Center for Academic Integrity (CAI)](http://academicintegrity.org/) defines academic integrity as a commitment, even in the face of adversity, to five fundamental values: honesty, trust, fairness, respect, and responsibility. From these values flow principles of behavior that enable academic communities to translate ideals into action.
+
+**UCF Creed:** Integrity, scholarship, community, creativity, and excellence are the core values that guide our conduct, performance, and decisions.
+
+1. Integrity: I will practice and defend academic and personal honesty.
+2. Scholarship: I will cherish and honor learning as a fundamental purpose of my membership in the UCF community.
+3. Community: I will promote an open and supportive campus environment by respecting the rights and contributions of every individual.
+4. Creativity: I will use my talents to enrich the human experience.
+5. Excellence: I will strive toward the highest standards of performance in any endeavor I undertake.
+
+Students should familiarize themselves with [UCF's Rules of Conduct](https://scai.sdes.ucf.edu/student-rules-of-conduct/). According to Section 1, “Academic Misconduct,” students are prohibited from engaging in
+
+1. Unauthorized assistance: Using or attempting to use unauthorized materials, information or study aids in any academic exercise unless specifically authorized by the instructor of record. The unauthorized possession of examination or course-related material also constitutes cheating.
+2. Communication to another through written, visual, electronic, or oral means: The presentation of material which has not been studied or learned, but rather was obtained through someone else’s efforts and used as part of an examination, course assignment, or project.
+3. Commercial Use of Academic Material: Selling of course material to another person, student, and/or uploading course material to a third-party vendor without authorization or without the express written permission of the university and the instructor. Course materials include but are not limited to class notes, Instructor’s PowerPoints, course syllabi, tests, quizzes, labs, instruction sheets, homework, study guides, handouts, etc.
+4. Falsifying or misrepresenting the student’s own academic work.
+5. Plagiarism: Using or appropriating another’s work without any indication of the source, thereby attempting to convey the impression that such work is the student’s own.
+6. Multiple Submissions: Submitting the same academic work for credit more than once without the express written permission of the instructor.
+7. Helping another violate academic behavior standards.
+8. Soliciting assistance with academic coursework and/or degree requirements.
+
+### Responses to Academic Dishonesty, Plagiarism, or Cheating
+
+Students should also familiarize themselves with the procedures for academic misconduct in UCF’s student handbook, [The Golden Rule](https://goldenrule.sdes.ucf.edu/). UCF faculty members have a responsibility for students’ education and the value of a UCF degree, and so seek to prevent unethical behavior and respond to academic misconduct when necessary. Penalties for violating rules, policies, and instructions within this course can range from a zero on the exercise to an “F” letter grade in the course. In addition, an Academic Misconduct report could be filed with the Office of Student Conduct, which could lead to disciplinary warning, disciplinary probation, or deferred suspension or separation from the University through suspension, dismissal, or expulsion with the addition of a “Z” designation on one’s transcript.
+
+### Course Accessibility Statement
+
+This course is built with universal design for learning principles in mind: if you encounter challenges with any of the course materials, assignments, platforms, or requirements, please reach out for assistance, and know that additional support is always available regardles of documentation. If changes in course modality occur and you require additional accomodations, please reach out as soon as possible.
+
+Additionally, the University of Central Florida is committed to providing access and inclusion for all persons with disabilities. Students with disabilities who need access to course content due to course design limitations should contact the professor as soon as possible. Students should also connect with [Student Accessibility Services (SAS)](http://sas.sdes.ucf.edu/) (Ferrell Commons 185, sas@ucf.edu, phone 407-823-2371). For students connected with SAS, a Course Accessibility Letter may be created and sent to professors, which informs faculty of potential course access and accommodations that might be necessary and reasonable. Determining reasonable access and accommodations requires consideration of the course design, course learning objectives and the individual academic and course barriers experienced by the student. Further conversation with SAS, faculty and the student may be warranted to ensure an accessible course experience.
+
+### Campus Safety Statement
+
+Emergencies on campus are rare, but if one should arise during class, everyone needs to work together. Students should be aware of their surroundings and familiar with some basic safety and security concepts.
+
+- In case of an emergency, dial 911 for assistance.
+- Every UCF classroom contains an emergency procedure guide posted on a wall near the door. Students should make a note of the guide’s physical location and review the [online version](http://emergency.ucf.edu/emergency_guide.html).
+- Students should know the evacuation routes from each of their classrooms and have a plan for finding safety in case of an emergency.
+- If there is a medical emergency during class, students may need to access a first-aid kit or AED (Automated External Defibrillator). To learn where those are located, see [locations](https://ehs.ucf.edu/automated-external-defibrillator-aed-locations).
+- To stay informed about emergency situations, students can sign up to receive UCF text alerts by going to [MyUCF](https://my.ucf.edu) and logging in. Click on “Student Self Service” located on the left side of the screen in the toolbar, scroll down to the blue “Personal Information” heading on the Student Center screen, click on “UCF Alert”, fill out the information, including e-mail address, cell phone number, and cell phone provider, click “Apply” to save the changes, and then click “OK.”
+- Students with special needs related to emergency situations should speak with their instructors outside of class.
+- To learn about how to manage an active-shooter situation on campus or elsewhere, consider viewing this [video](https://youtu.be/NIKYajEx4pk).
+
+### Deployed Active Duty Military Students
+
+Students who are deployed active duty military and/or National Guard personnel and require accommodation should contact their instructors as soon as possible after the semester begins and/or after they receive notification of deployment to make related arrangements.
+
+### Authorized Events and Religious Observances
+
+Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.
+
+Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf). No penalty will be applied.
+
+### Title IX Policy
+
+Title IX prohibits sex discrimination, including sexual misconduct, sexual violence, sexual harassment, and retaliation. If you or someone you know has been harassed or assaulted, you can find resources available to support the victim, including confidential resources and information concerning reporting options at [Let's be Clear](https://letsbeclear.ucf.edu) and [SDES](http://cares.sdes.ucf.edu/).
