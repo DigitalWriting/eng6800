@@ -1,4 +1,4 @@
-#ENG 6800 - Intro to Texts & Technology
+# ENG 6800 - Intro to Texts & Technology
 
 - **Instructor:** Dr. Rudy McDaniel
 - **Email:** rudy@ucf.edu
