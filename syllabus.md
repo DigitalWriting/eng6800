@@ -50,7 +50,7 @@
 
 This course provides an introduction to the PhD in Texts and Technology. Throughout this course, we will explore Texts & Technology through theory and practice, with an emphasis on interdisciplinarity, understanding academic fields and their relationships to each other, developing an academic identity, and fundamentals of success for both graduate school and academia. Each week will include a combination of readings, exercises, discussions, and progress towards a draft journal article and professional academic web presence. PR: Graduate standing or C.I.
 
-- **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module. Weekly lectures and discussion will take place in the classroom: however, Zoom attendance is available for those who need it upon request.
+- **Weekly Readings and Lecture.** The full schedule of required readings is listed in the syllabus: additional recommended readings will be provided in each module. Weekly lectures and discussion will take place in the classroom.
 
 - **Online Activities.** This course requires substantial independent work: as part of the mixed-mode structure, additional lectures and tutorials will be available through Webcourses, with an emphasis on the iterative development of the semester projects.
 
@@ -111,10 +111,10 @@ There is no extra credit work available in this class. Grades will be available 
 This course uses a mixed mode format, and relies upon students to complete all readings, engage with online videos, and complete tutorials as assigned. All assignments are due at the close of their listed module, but will be accepted with no penalty for one week after the deadline. Once an assignment closes, late work will not be accepted unless an additional extension has already been approved by the instructor: please reach out early if circumstances will require additional time!
 
 - The course will meet at the scheduled time on campus unless otherwise noted in the weekly module.
-- In-person class sessions will not be recorded, but Zoom calls are possible when necessary.
+- In-person class sessions will not be recorded.
 - Office hour assistance is additionally available both through text on Webcourses messages and via Zoom.
 
-In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed. Incompletes will only be granted with no more than two missing assignments, and work must be completed within six months of the close of course.
+In the event of an emergency or medical challenge, additional flexibility beyond the grading guidelines is available: when anticipated, students should reach out to the instructor as soon as feasible to form a plan or discuss an incomplete if needed. 
 
 Remember to complete the listed readings for each week prior to class, and be prepared for discussion.
 
@@ -126,7 +126,7 @@ Remember to complete the listed readings for each week prior to class, and be pr
 
 - Sweeney, Miriam E. 2012. ["How to Read for Grad School."](http://miriamsweeney.net/2012/06/20/readforgradschool/).
 - [The T&T Student Handbook](https://cah.ucf.edu/textstech/curriculum/handbook/)
-- **Due: Activity Verification (Friday August 26th)**
+- **Due: Activity Verification (Friday August 23rd)**
 
 ### Week Two: Intro to DH (Tuesday, August 27)
 
