@@ -1,4 +1,8 @@
-# ENG 6800 - Intro to Texts & Technology Syllabus
+---
+title: ENG 6800 Introduction to Texts and Technology
+---
+
+# Course Syllabus
 
 - **Instructor:** Dr. Rudy McDaniel
 - **Email:** rudy@ucf.edu
