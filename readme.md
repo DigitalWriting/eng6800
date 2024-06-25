@@ -1,5 +1,5 @@
 ---
-title: ENG 6800: Intro to Texts & Technology
+title: ENG 6800 - Intro to Texts & Technology
 ---
 
 - **Instructor:** Dr. Rudy McDaniel
