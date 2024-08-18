@@ -100,7 +100,7 @@ Supplementary suggested readings are included in each module to guide additional
 | 20  | **Literature Review** - Select three relevant journal articles or book chapters in consultation with the professor: at least one should be from your target journal. Following the provided examples, prepare a literature review on your subject using the articles in combination with course readings.  | Tuesday, October 8 |
 | 20  | **Web Presence** - Using the provided templates, build a foundational professional website with an emphasis on your research and trajectory. The website should include relevant information from your CV and any digital projects ready for showcasing.  | Tuesday, October 29 |
 | 25 | **Article Draft** - Following the formatting guidelines and length requirements of your selected venue, prepare a draft of your article.   | Tuesday, November 19  |
-| 10 | **Revision Memo** - Provide a plan for your article revision, responsive to the feedback you've reived on the draft submission. This memo should be professionally structured and addressed to the editor of your target journal. | Friday, December 6  |
+| 10 | **Revision Memo** - Provide a plan for your article revision, responsive to the feedback you've reived on the draft submission. This memo should be professionally structured and addressed to the editor of your target journal. | Friday, November 29  |
 
 Students can access their grades and feedback at any time using the Grade Book function of Webcourses. All assignments will be submitted through Webcourses. Plan on checking the site at least twice a week for updates and assignment information. Grades are calculated out of 100 following a standard letter scale.
 
