@@ -53,5 +53,3 @@ Here is a list of discussion questions based on the first six chapters of Jay Da
 12. **Bolter talks about the "hypertextual essay." How does this form differ from traditional essays, and what challenges does it present?**  
     - **Reference**: “The hypertextual essay?” (p. 111)
     - **Discussion**: How does the non-linear nature of hypertext essays challenge traditional academic writing practices? Can they coexist with more traditional forms of writing?
-
-These questions are intended to provoke thoughtful discussions, encourage students to engage with Bolter's arguments, and connect the themes of the text to contemporary issues in media and digital culture.
